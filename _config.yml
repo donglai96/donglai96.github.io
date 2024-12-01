@@ -22,9 +22,9 @@ repository               : "https://donglai96.github.io/"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Donglai Ma"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Space Physicist"
   location         : "CA, US"
   employer         : "UCLA"
   uri              : # URL
