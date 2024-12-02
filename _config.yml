@@ -21,7 +21,7 @@ repository               : "https://donglai96.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "DMA1.png"
+  avatar           : "profile.png"
   name             : "Donglai Ma"
   pronouns         : # example: "she/her"  
   bio              : "Space Physicist"
