@@ -14,7 +14,7 @@ name                     : &name "Donglai Ma"
 description              : &description "personal description"
 url                      : https://donglai96.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://donglai96.github.io/"
+repository               : "donglai96/donglai96.github.io/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
